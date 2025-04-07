@@ -2,7 +2,7 @@
 
 This tool compresses a set of logical rules used to classify blood donors as "old" based on biomarker expressions. It removes redundant, overly specific, or weak rules to produce a more compact and interpretable rule set.
 
-## 🔧 Build Instructions
+## Build Instructions
 
 You need a C++17 compiler and Make. Run:
 
